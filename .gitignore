@@ -1,0 +1,10 @@
+outputs/*
+.idea/*
+__pycache__/*
+.run/*
+frontend/images/*
+models/*
+frontend/*
+data/*
+inputs/.ipynb_checkpoints/*
+notebooks/cache/*

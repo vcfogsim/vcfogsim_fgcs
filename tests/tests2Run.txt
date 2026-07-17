@@ -1,0 +1,27 @@
+# instance time(minuts) seed_users seed_servers type_exec:(simulation 0 heuristic 1) type_placement (0 random 1 nearest_server 2 k_nearest_server 3 predictive) radio_servers (meters) seed_for_models
+test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Gracia	4	250	123456789
+#test_exp_1_4608_lambda_40	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_4	100	987654321	123456789	0	10	map_bcn.json	Eixample	1	250	123456789
+#test_exp_1	100	987654321	123456789	0	10	map_bcn.json	Eixample	0	75	123456789
+#test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Eixample	1	250	123456789
+#test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Eixample	2	250	123456789
+#test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Eixample	3	250	123456789
+#test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_2	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_4	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_4	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_1	100	7384	7384	0	10	map_bcn.json	Eixample	0	250	7384
+#test_exp_1	100	123456789	123456789	0	10	map_bcn.json	Eixample	0	250	123456789
+#test_exp_1	100	343423423	324234234	0	10	map_bcn.json	Eixample	0	250	324234234
+#test_exp_2	100	756587434	756587434	0	10	map_bcn.json	Eixample	0	250	756587434
+#test_exp_3	100	756587434	756587434	0	10	map_bcn.json	Eixample	0	250	756587434
+#test_exp_1	100	756587434	756587434	0	10	map_bcn.json	Eixample	3	250	756587434
+#test_exp_1	100	756587434	756587434	0	10	map_bcn.json	Eixample	1	250	756587434
+#test_exp_1	100	756587434	756587434	0	10	map_bcn.json	Eixample	2	250	756587434
+#test_exp_1	100	756587434	756587434	0	10	map_bcn.json	Eixample	3	250	756587434
+#test_exp_2	100	756587434	756587434	0	10	map_bcn.json	Eixample	1	250	756587434
+#test_exp_3	100	756587434	756587434	0	10	map_bcn.json	Eixample	2	250	756587434
+#test_exp_1	8640	756587434	0	10	map_bcn.json	Eixample	0	250		0
+#test_exp_2	8640	756587434	0	10	map_bcn.json	Eixample	0	250		0
+#test_exp_3	8640	756587434	0	10	map_bcn.json	Eixample	0	250		0
+#test_exp_4	8640	756587434	0	10	map_bcn.json	Eixample	0	250		0
