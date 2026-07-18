@@ -7,4 +7,5 @@ models/*
 frontend/*
 data/*
 inputs/.ipynb_checkpoints/*
+notebooks/*
 notebooks/cache/*

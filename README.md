@@ -4,10 +4,11 @@
 This software is a simulation tool designed to model and analyze volunteer fog computing environments. It allows researchers and developers to simulate various scenarios in fog computing, including resource allocation, task scheduling, and network performance. The main goal of this simulator is to deploy task allocation algorithms in a volunteer fog computing enviroment and check the performance of the algorithms in terms of energy consumption, task completion time, and other relevant metrics.
 
 ## Folders
-- `algorithms`: Contains the implementation of various task allocation algorithms.
-- `data`: Contains sample data and configurations for the simulation.
-- `docs`: Contains documentation and related resources.
-- `src`: Contains the core simulation engine and related modules.
+- `input`: Contains input file templates for the simulation.
+- `output`: Contains output files provided by simulation.
+- `tests`: Contains test file cases for configuring simulation.
+- `models`: Contains the ML models used for baseline placement algorithm PNP.
+- 'notebooks': Contains Jupyter notebooks for data analysis and visualization.
 
 
 ## Installation
@@ -43,6 +44,7 @@ To install the simulator, follow these steps:
    python test_manager.py
    ```
 ## Usage
+
 
 
 
